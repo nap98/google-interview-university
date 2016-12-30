@@ -278,7 +278,7 @@ technologies but were not mentioned in those notes:
 - Javascript
 - HTML, CSS, and other front-end technologies
 
-## The Daily Plan
+## दैनिक योजना
 
 Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.
 
